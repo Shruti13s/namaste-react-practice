@@ -1,8 +1,6 @@
-#Namaste React🚀
+# Namaste React🚀
 
-
-
-#Namaste Food
+# Namaste Food
 /*
 *Header
  -Logo

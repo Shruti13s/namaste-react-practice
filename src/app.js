@@ -18,9 +18,10 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 
 
 const AppLayout = () => {
+  
   return (
     <div className="app">
-      <Header />
+      <Header/>
       <Body />
     </div>
   );
